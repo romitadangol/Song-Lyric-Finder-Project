@@ -1,1 +1,3 @@
 # Song-Lyric-Finder-Project
+
+This is a project is built which is the ‘Song Lyric Finder’ which is an Information Retrieval system using a vector space model. This project consists of the entire process of frontend and backend work where for the frontend portion of the project HTML, Tailwind CSS, and JavaScript has been used and for the backend portion, Python language is used with Flask. The main objective of the IR system is that users can input any lyric of the songs or other queries and give the relevant results they are looking for. I have over twenty documents that have been used in it. The result shows the top ranked documents, cosine similarity score and the album cover of the retrieved results from the query.
